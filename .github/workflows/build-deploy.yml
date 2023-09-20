@@ -38,4 +38,4 @@ jobs:
         with:
           push: true
           context: .
-          tags: santihsdev/mycontainer:latest
+          tags: santihs/mycontainer:latest
